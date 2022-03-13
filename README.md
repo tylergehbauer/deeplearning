@@ -19,7 +19,7 @@ I applied a MinMaxScaler to the X and y values to scale the data for the model.
 
 Finally, I reshaped the X_train and X_test values to fit the model's requirement of samples, time steps, and features. 
 
- *most functions included in starter notebook* 
+ *Most functions are included in starter notebook* 
 
 ---
 ## LSTM Stock Predictor Using Fear and Greed Index 
