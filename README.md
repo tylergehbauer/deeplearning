@@ -36,4 +36,5 @@ Which model tracks the actual values better over time? - The LSTM Stock Predicto
 Which window size works best for the model? 
 
 - For LSTM using Closing Prices I found that a window size of 1 resulted in the least amount of loss and was very accurate. (Window Size = 1 is what is being plotted above)
+
 -For LSTM using Fear and Greed Index, I found that a window size of 5 resulted in the least amount of loss and was more accurate than the other sizes. 
